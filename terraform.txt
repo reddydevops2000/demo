@@ -1,3 +1,0 @@
-welcome to the terraform
-
-Terraform is used for creating infrastructure
